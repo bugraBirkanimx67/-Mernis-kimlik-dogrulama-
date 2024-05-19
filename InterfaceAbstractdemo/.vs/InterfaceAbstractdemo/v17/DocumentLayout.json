@@ -1,0 +1,195 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractDemo.csproj|c:\\users\\bugra\\onedrive\\desktop\\ders notlar\u0131m\\2.d\u00F6nem\\interfaceabstractdemo\\interfaceabstractdemo\\concreate\\customercheckmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractDemo.csproj|solutionrelative:interfaceabstractdemo\\concreate\\customercheckmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractDemo.csproj|C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\interfaceabstractdemo\\entities\\adapters\\mernisserviceadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractDemo.csproj|solutionrelative:interfaceabstractdemo\\entities\\adapters\\mernisserviceadapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractdemo.csproj|C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\interfaceabstractdemo\\concreate\\nerocustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractdemo.csproj|solutionrelative:interfaceabstractdemo\\concreate\\nerocustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractDemo.csproj|C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\interfaceabstractdemo\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractDemo.csproj|solutionrelative:interfaceabstractdemo\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractDemo.csproj|C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\interfaceabstractdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractDemo.csproj|solutionrelative:interfaceabstractdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractDemo.csproj|C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\interfaceabstractdemo\\concreate\\starbuckscustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractDemo.csproj|solutionrelative:interfaceabstractdemo\\concreate\\starbuckscustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractdemo.csproj|C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\interfaceabstractdemo\\abstract\\icustomercheckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractdemo.csproj|solutionrelative:interfaceabstractdemo\\abstract\\icustomercheckservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractDemo.csproj|C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\interfaceabstractdemo\\abstract\\ientitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractDemo.csproj|solutionrelative:interfaceabstractdemo\\abstract\\ientitiy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractdemo.csproj|C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\interfaceabstractdemo\\abstract\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractdemo.csproj|solutionrelative:interfaceabstractdemo\\abstract\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractdemo.csproj|C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\interfaceabstractdemo\\abstract\\basecustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F600FBFD-50AF-4FD8-8971-0AD430361AD8}|InterfaceAbstractdemo\\InterfaceAbstractdemo.csproj|solutionrelative:interfaceabstractdemo\\abstract\\basecustomermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 169,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MernisServiceAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Entities\\Adapters\\MernisServiceAdapter.cs",
+              "RelativeDocumentMoniker": "InterfaceAbstractdemo\\Entities\\Adapters\\MernisServiceAdapter.cs",
+              "ToolTip": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Entities\\Adapters\\MernisServiceAdapter.cs*",
+              "RelativeToolTip": "InterfaceAbstractdemo\\Entities\\Adapters\\MernisServiceAdapter.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T19:54:07.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerCheckManager.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Concreate\\CustomerCheckManager.cs",
+              "RelativeDocumentMoniker": "InterfaceAbstractdemo\\Concreate\\CustomerCheckManager.cs",
+              "ToolTip": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Concreate\\CustomerCheckManager.cs",
+              "RelativeToolTip": "InterfaceAbstractdemo\\Concreate\\CustomerCheckManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:56:58.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICustomerCheckService.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Abstract\\ICustomerCheckService.cs",
+              "RelativeDocumentMoniker": "InterfaceAbstractdemo\\Abstract\\ICustomerCheckService.cs",
+              "ToolTip": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Abstract\\ICustomerCheckService.cs",
+              "RelativeToolTip": "InterfaceAbstractdemo\\Abstract\\ICustomerCheckService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:49:34.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseCustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Abstract\\BaseCustomerManager.cs",
+              "RelativeDocumentMoniker": "InterfaceAbstractdemo\\Abstract\\BaseCustomerManager.cs",
+              "ToolTip": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Abstract\\BaseCustomerManager.cs",
+              "RelativeToolTip": "InterfaceAbstractdemo\\Abstract\\BaseCustomerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:23:31.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NeroCustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Concreate\\NeroCustomerManager.cs",
+              "RelativeDocumentMoniker": "InterfaceAbstractdemo\\Concreate\\NeroCustomerManager.cs",
+              "ToolTip": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Concreate\\NeroCustomerManager.cs",
+              "RelativeToolTip": "InterfaceAbstractdemo\\Concreate\\NeroCustomerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:20:10.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StarbucksCustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Concreate\\StarbucksCustomerManager.cs",
+              "RelativeDocumentMoniker": "InterfaceAbstractdemo\\Concreate\\StarbucksCustomerManager.cs",
+              "ToolTip": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Concreate\\StarbucksCustomerManager.cs",
+              "RelativeToolTip": "InterfaceAbstractdemo\\Concreate\\StarbucksCustomerManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:19:45.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEntitiy.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Abstract\\IEntitiy.cs",
+              "RelativeDocumentMoniker": "InterfaceAbstractdemo\\Abstract\\IEntitiy.cs",
+              "ToolTip": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Abstract\\IEntitiy.cs",
+              "RelativeToolTip": "InterfaceAbstractdemo\\Abstract\\IEntitiy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T19:01:29.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Abstract\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "InterfaceAbstractdemo\\Abstract\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Abstract\\ICustomerService.cs",
+              "RelativeToolTip": "InterfaceAbstractdemo\\Abstract\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:59:13.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "InterfaceAbstractdemo\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Entities\\Customer.cs",
+              "RelativeToolTip": "InterfaceAbstractdemo\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:53:54.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceAbstractdemo\\Program.cs",
+              "ToolTip": "C:\\Users\\bugra\\OneDrive\\Desktop\\ders notlar\u0131m\\2.d\u00F6nem\\InterfaceAbstractdemo\\InterfaceAbstractdemo\\Program.cs",
+              "RelativeToolTip": "InterfaceAbstractdemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:52:18.28Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
